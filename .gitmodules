@@ -65,3 +65,6 @@
 [submodule "components/esp_wifi/lib_esp32"]
 	path = components/esp_wifi/lib_esp32
 	url = https://github.com/espressif/esp32-wifi-lib.git
+[submodule "components/anjay_lwm2m/Anjay"]
+	path = components/anjay_lwm2m/Anjay
+	url = https://github.com/AVSystem/Anjay
