@@ -72,3 +72,6 @@
 [submodule "components/anjay_lwm2m/Anjay"]
 	path = components/anjay_lwm2m/Anjay
 	url = https://github.com/AVSystem/Anjay
+[submodule "components/duktape/duktape"]
+	path = components/duktape/duktape
+	url = https://github.com/svaarala/duktape
